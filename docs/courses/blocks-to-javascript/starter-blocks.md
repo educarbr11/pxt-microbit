@@ -2,7 +2,7 @@
 
 ## ~ hint
 
-Use your knowledge of blocks to learn JavaScript faster.
+Use your knowledge of blocks to learn JavaScript faster. APRENDENDO JS
 
 ## ~
 
