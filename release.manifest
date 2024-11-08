@@ -1,0 +1,90 @@
+CACHE MANIFEST
+
+CACHE:
+/pxt-microbit/semantic.js
+/pxt-microbit/main.js
+/pxt-microbit/pxtapp.js
+/pxt-microbit/typescript.js
+/pxt-microbit/marked/marked.min.js
+/pxt-microbit/highlight.js/highlight.pack.js
+/pxt-microbit/jquery.js
+/pxt-microbit/pxtlib.js
+/pxt-microbit/pxtcompiler.js
+/pxt-microbit/pxtpy.js
+/pxt-microbit/pxteditor.js
+/pxt-microbit/pxtsim.js
+/pxt-microbit/pxtembed.js
+/pxt-microbit/pxtworker.js
+/pxt-microbit/pxtweb.js
+/pxt-microbit/blockly.css
+/pxt-microbit/semantic.css
+/pxt-microbit/rtlsemantic.css
+
+
+/pxt-microbit/editor.js
+/pxt-microbit/fieldeditors.js
+
+# blockly
+/pxt-microbit/blockly/media/sprites.png
+/pxt-microbit/blockly/media/click.mp3
+/pxt-microbit/blockly/media/disconnect.wav
+/pxt-microbit/blockly/media/delete.mp3
+
+# monaco; keep in sync with webapp/public/index.html
+/pxt-microbit/vs/loader.js
+/pxt-microbit/vs/base/worker/workerMain.js
+/pxt-microbit/vs/basic-languages/bat/bat.js
+/pxt-microbit/vs/basic-languages/cpp/cpp.js
+/pxt-microbit/vs/basic-languages/python/python.js
+/pxt-microbit/vs/basic-languages/typescript/typescript.js
+/pxt-microbit/vs/basic-languages/markdown/markdown.js
+/pxt-microbit/vs/editor/editor.main.css
+/pxt-microbit/vs/editor/editor.main.js
+/pxt-microbit/vs/editor/editor.main.nls.js
+/pxt-microbit/vs/language/json/jsonMode.js
+/pxt-microbit/vs/language/json/jsonWorker.js
+/pxt-microbit/vs/language/typescript/tsMode.js
+/pxt-microbit/vs/language/typescript/tsWorker.js
+
+# charts
+/pxt-microbit/smoothie/smoothie_compressed.js
+/pxt-microbit/images/Bars_black.gif
+
+# gifjs
+/pxt-microbit/gifjs/gif.js
+
+# ai
+/pxt-microbit/ai.0.js
+
+/pxt-microbit/worker.js
+/pxt-microbit/monacoworker.js
+
+# ver Fri Nov 08 2024 11:27:51 GMT-0300 (Brasilia Standard Time)
+
+# target
+/pxt-microbit/docs/static/providers/github-mark.png
+/pxt-microbit/docs/static/providers/microsoft-logo.svg
+/pxt-microbit/docs/static/providers/google-logo.svg
+/pxt-microbit/docs/static/providers/clever-logo.png
+/pxt-microbit/docs/static/logo.portrait.white.svg
+/pxt-microbit/docs/static/logo.square.white.svg
+/pxt-microbit/docs/static/logo.portrait.black.svg
+/pxt-microbit/docs/static/icons/apple-touch-icon.png
+/pxt-microbit/docs/static/Microsoft_logo_rgb_W-white_D-square.png
+/pxt-microbit/docs/static/Microsoft_logo_rgb_W-white_D.png
+/pxt-microbit/docs/static/herogallery/hero-banner.png
+/pxt-microbit/docs/static/download/transfer.png
+/pxt-microbit/docs/static/download/connect-microbit.gif
+/pxt-microbit/docs/static/download/full-reset.gif
+/pxt-microbit/docs/static/download/selecting-microbit.gif
+/pxt-microbit/docs/static/download/successfully-paired.png
+/pxt-microbit/docs/static/download/incompatible.png
+/pxt-microbit/docs/static/download/device-forgotten.gif
+/pxt-microbit/docs/static/download/browser-unpair-image.gif
+/pxt-microbit/docs/static/winapp.PNG
+/pxt-microbit/docs/static/profile/microbit-cloud.png
+
+/pxt-microbit/target.js
+
+NETWORK:
+*
