@@ -7,6 +7,9 @@
         "education",
         "microbit"
     ],
+    "scripts": {
+        "build": "pxt staticpkg --out built"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Microsoft/pxt-microbit.git"
